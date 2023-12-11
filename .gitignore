@@ -6,3 +6,6 @@
 ehthumbs.db
 Thumbs.db
 *.csv
+*.ipynb_checkpoints
+*.pyc
+__pycache__/
